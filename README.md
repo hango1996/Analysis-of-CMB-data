@@ -27,5 +27,15 @@ https://wiki.cosmos.esa.int/planck-legacy-archive/index.php/Summary_of_HFI_data_
 The main paper is titled "Planck 2018 results. III. High Frequency Instrument data processing and frequency maps" downloadable from `https://arxiv.org/pdf/1807.06207.pdf`
 
 ##  ==============
-# Report
-You can find the jupyter notebook report in `notebooks/assignment3.jpynb`
+# Repository Description 
+### [/data](data)
+[data_slices.jld2](data/data_slices.jld2): CMB slice data
+[cls.jld2](data/cls.jld2): CMB slice data
+[Planck2018.pdf](data/Planck2018.pdf): The main paper downloadable from `https://arxiv.org/pdf/1807.06207.pdf`
+
+### [code](code)
+[LocalMethods.jl](code/LocalMethods.jl): Create local methods 
+
+### [/notebooks](notebooks)
+[Assignment3.ipynb](notebooks/Assignment1.ipynb):  
+summary and report
