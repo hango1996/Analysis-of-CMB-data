@@ -37,5 +37,4 @@ The main paper is titled "Planck 2018 results. III. High Frequency Instrument da
 [LocalMethods.jl](code/LocalMethods.jl): Create local methods 
 
 ### [/notebooks](notebooks)
-[Assignment3.ipynb](notebooks/Assignment1.ipynb):  
-summary and report
+[Assignment3.ipynb](notebooks/Assignment1.ipynb): summary and report
